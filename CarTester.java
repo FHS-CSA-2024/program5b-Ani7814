@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class carTester{
+public class CarTester{
     Scanner info = new Scanner(System.in);
     public Car addCar(){
         System.out.println("Please enter the car's name: ");
